@@ -4,4 +4,7 @@ Earth‑Live is a real‑time tool that shows the most recent natural disasters 
 
 ## Demo
 Take a look at this!
+
+
 ![Image](https://github.com/user-attachments/assets/cb411afe-cd12-450e-98a8-a5fdf1369f50)
+
